@@ -1,0 +1,6 @@
+{
+  "name": "pyrunner",
+  "description": "Run Python script files and install pip packages in the background with real-time logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
